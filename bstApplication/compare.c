@@ -44,4 +44,3 @@ void print_type(TYPE curval)
 }
 
 
-d

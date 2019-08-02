@@ -29,7 +29,7 @@ struct BSTree {
 	struct Node *root;
 	int          cnt;
 };
-d
+
 /*----------------------------------------------------------------------------*/
 /*
  function to initialize the binary search tree.
