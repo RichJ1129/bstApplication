@@ -46,3 +46,4 @@ int containsBSTree(struct BSTree *tree, TYPE val);
 void  removeBSTree(struct BSTree *tree, TYPE val);
 void printTree(struct BSTree *tree);
 # endif
+d
